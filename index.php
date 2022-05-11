@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-    <html>
+    <html lang="id">
+
         <head>
             <title>test</title>
+        </head>
         <body>
-            <form name="form1" action="index.php">
+            <form name="form1" action="perhitungan.php">
                 <table width="400" border="1">
                     <tr>
                         <td colspan="2" width="400" align="center">perhintungan_bilangan</td>
@@ -22,5 +24,4 @@
                 </table>
             </form> 
         </body>
-        </head>
     </html>
